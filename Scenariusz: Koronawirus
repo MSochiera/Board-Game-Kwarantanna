@@ -1,0 +1,12 @@
+1.Rodzina zaczyna z dwoma zarażonymi członkami:
+  -jeden z nich ma 1 ZZ
+  -drugi ma 2 ZZ
+2.Zachorowanie:
+  -start z 8 ZC
+  - +2 ZC na turę
+  - -2 ZC za opiekę
+  - -1 ZC za leki (max 1)
+3.Śmierć:
+  -Kobieta:K6 + ZC >= 15
+  -Mężczyzna: K6 + ZC >= 20
+4.Szczepionka w 10 turze - usuń wszystkie ZZ do końca gry
