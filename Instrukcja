@@ -4,34 +4,42 @@ Opis gry:
   W kraju wybuchła epidemia. Stało się to z dnia na dzień. Nie byłeś przygotowany, a teraz nie ma na to już czasu.
   Jesteś zdany na siebie i swoją rodzinę. Twoim jedynym celem jest przetrwać.
 
-Zasady ogólne:
-  -Rodzina zaczyna mając jedzenie na 2 dni i 4 żetony leków
-  -Zarażenie przy opiece: Rzut na 2-
-  -Opieka zwiększa ZZ o 1(dla zarażonych)
-  -Wyjście z domu zwiększa ZZ o 1
-  -Brak posiłku zwiększa ZZ o 1
-  -Brak posiłku zwiększa ZC o 2(dotyczy tylko chorych)
-  -Jeśli zachorujesz w trakcie wyjścia to wracasz z niczym
-  Wymagania:
-  -Dziennie 1 ŻŻ(żeton żywności)
-  -Opał(drewno)-1 na 2 dni na rodzine
-  -Papier toaletowy - 1 na rodzine dziennie
 
+
+Zasady ogólne:
+
+Gracz zarządza każdym  z członków swojej rodziny. Jedna runda oznacza
+jeden dzień kwarantanny. Gracz codziennie decyduje, co będzie robił każdy
+z członków rodziny.
+Każda osoba ma swoją własną odporność oraz zdrowie.
+Kiedy odporność spada do 0, osoba zaczyna chorować.
+Kiedy zdrowie spada do 0, osoba umiera.
+
+
+Przygotowanie gry:
+Połóż na każdej postaci odpowiednią liczbę znaczników zdrowia i samopoczucia
+(widoczne na karcie postaci).
+Każda rodzina otrzymuje jedzienie i papier toaletowy na dwa dni oraz
+4 żetony leków.
 
 Plan rundy:
   1. Wydarzenie dnia (gracz rozpoczynający)
+  2. Wydarzenie rodzinne
   2. Podział ról w rodzinie
   3. Podział znaczników jedzenia i leków
-  4. Postęp choroby/leczenia
-  5. Postęp zarażenia
-  6. Rzuty kostką na przeżycie
-  7. Rzuty kostką na wyzdrowienie
-  8. Rzuty kostką na zachorowanie
-  9. Rzuty kostką na zarażenie
-  10 .Handel/zdobywanie pożywienia
-  
-  
-Akcje:
-1. Sklep - żywność
-2. Apteka - leki
+  4. Ewaluacja
 
+Akcje:
+  1. Sklep - żywność (+5 znaczników żywności)
+  2. Drogeria - papier toaletowy (+2 rolki)
+  3. Apteka - leki (+2 leki)
+  4. Domowa produkcja leków (+1 lek)
+  6. Wyjście na spacer (+1 zdrowia, -1 odporności)
+  7. Opieka nad zarażonym (-1 odporności)
+
+Reguły:
+  - Wyjścia do sklepów zmniejszają odporność o 1
+  - Osoba, która w ciągu dnia nie otrzyma żywności, traci 1 znacznik zdrowia
+  - Jeśli w rodzinie zabraknie papieru, wszyscy tracą odporność (1)
+  - Brak opieki nad chorym zmniejsza zdrownie o 1
+  - Brak leków dla chorego zmniejsza zdrowie o 1.
