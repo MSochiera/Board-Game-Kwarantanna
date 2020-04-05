@@ -2,6 +2,7 @@
 Kowalscy
 
 Zasada specjalna:
+Kowalscy są zdrowi jak koń.
 W swojej turze wybierz członka rodziny - zwiększ jego zdrowie o 1
 -------------------------------
 Joachim Kowalski
