@@ -40,9 +40,9 @@ Akcje:
   - Opieka nad zarażonym (-1 odporności)
 
 Reguły:
-  - Nigdy nie można mieć więcej niż 6 zdrowia ani odporności
-  - Wyjścia na zewnątrz zmniejszają odporność (o 1)
-  - Osoba, która w ciągu dnia nie otrzyma żywności, traci 1 znacznik zdrowia
-  - Jeśli w rodzinie zabraknie papieru, wszyscy tracą odporność (o 1)
-  - Brak opieki nad chorym zmniejsza zdrowie o 1
+  - Nigdy nie można mieć więcej niż 6 zdrowia ani odporności.
+  - Wyjścia na zewnątrz zmniejszają odporność (o 1).
+  - Osoba, która w ciągu dnia nie otrzyma żywności, traci 1 znacznik zdrowia.
+  - Jeśli w rodzinie zabraknie papieru, wszyscy tracą odporność (o 1).
+  - Brak opieki nad chorym zmniejsza zdrowie o 1.
   - Brak leków dla chorego zmniejsza zdrowie o 1.
