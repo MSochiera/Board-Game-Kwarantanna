@@ -1,0 +1,59 @@
+--------------------------------
+Niezbędni
+
+Zasada specjalna:
+W swojej turze wybierz członka rodziny - zwiększ jego odporność o 1
+-------------------------------
+Leon Niezbędny
+67 lat
+Mężczyzna
+Początkowa odporność: 4
+Początkowe zdrowie: 4
+
+
+
+
+
+
+
+
+--------------------------------
+Maria Niezbędna 58 lat
+Kobieta
+Początkowa odporność: 4
+Początkowe zdrowie: 4
+
+
+
+
+
+
+
+
+--------------------------------
+Joanna Niezbędna 37 lat
+Kobieta
+Początkowa odporność: 5
+Początkowe zdrowie: 5
+
+
+
+
+
+
+
+
+--------------------------------
+Dominik Niezbędny 30 lat
+Mężczyzna
+Początkowa odporność: 6
+Początkowe zdrowie: 5
+
+
+
+
+
+
+
+
+--------------------------------

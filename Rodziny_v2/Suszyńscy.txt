@@ -1,0 +1,62 @@
+--------------------------------
+Suszyńscy
+
+Zasada specjalna:
+Suszyńscy przerobili 10 książek kucharskich i potrafią ugotować
+wszystko z niczego.
+Na początku swojej tury pobierz 2 dodatkowe porcje jedzenia.
+-------------------------------
+Zygfryd Suszyński
+63 lata
+Mężczyzna
+Początkowa odporność: 5
+Początkowe zdrowie: 4
+
+
+
+
+
+
+
+
+--------------------------------
+Dorota Suszyńska 51 lat
+Kobieta
+Początkowa odporność: 5
+Początkowe zdrowie: 5
+
+
+
+
+
+
+
+
+--------------------------------
+Ania Suszyńska
+35 lat
+Kobieta
+Początkowa odporność: 6
+Początkowe zdrowie: 4
+
+
+
+
+
+
+
+
+--------------------------------
+Piotr Suszyński 29 lat
+Mężczyzna
+Początkowa odporność: 6
+Początkowe zdrowie: 5
+
+
+
+
+
+
+
+
+--------------------------------

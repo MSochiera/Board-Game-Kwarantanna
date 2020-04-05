@@ -1,0 +1,61 @@
+--------------------------------
+Kowalscy
+
+Zasada specjalna:
+W swojej turze wybierz członka rodziny - zwiększ jego zdrowie o 1
+-------------------------------
+Joachim Kowalski
+61 lat
+Mężczyzna
+Początkowa odporność: 5
+Początkowe zdrowie: 4
+
+
+
+
+
+
+
+
+--------------------------------
+Regina Kowalska
+57 lat
+Kobieta
+Początkowa odporność: 5
+Początkowe zdrowie: 5
+
+
+
+
+
+
+
+
+--------------------------------
+Ola Kowalska
+35 lat
+Kobieta
+Początkowa odporność: 6
+Początkowe zdrowie: 4
+
+
+
+
+
+
+
+
+--------------------------------
+Robert Kowalski 31 lat
+Mężczyzna
+Początkowa odporność: 6
+Początkowe zdrowie: 5
+
+
+
+
+
+
+
+
+--------------------------------
