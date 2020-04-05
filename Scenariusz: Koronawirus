@@ -1,8 +1,16 @@
 Reguły specjalne:
 - chory nie zdrowieje do zakończenia gry
 - podczas zachorowania mężczyźni tracą 1 punkt zdrowia
-- podczas zachorowania osoby powyżej 60 lat tracę 1 punkt zdrowia
-- po 10 turze każdy z graczy rzuca kostną na początku tury
-  jeśli wyrzuci 6, to gra się kończy - wszyscy otrzymują lek oraz szczepionkę
-- punktacja końcowa: 3 punkty za każdego członka rodziny, który przeżył.
-                     1 dodatkowy punkt za każdego zdrowego
+- podczas zachorowania osoby powyżej 60 lat tracą 1 punkt zdrowia
+- dostawy do sklepów wynoszą: 18 porcji jedzenia, 5 porcji leków i 4 porcje papieru
+- limity na osobę wynoszą 2-dniowe zapotrzebowanie dla rodziny
+
+Zakończenie gry:
+- po 10 turze każdy z graczy rzuca kostką na początku tury.
+  Jeśli wyrzuci 6, to gra się kończy - wszyscy otrzymują lek oraz szczepionkę
+
+Punktacja końcowa i warunki wygranej:
+- gracz otrzymuje 3 punkty za każdego członka rodziny, który przeżył
+- gracz otrzymuje dodatkowy 1 punkt za każdego zdrowego członka rodziny
+- w wypadku remisu wygrywa ten gracz, który ma więcej papier toaletowego,
+  w dalszej kolejności decyduje liczba porcji leków, a następnie porcji jedzenia
