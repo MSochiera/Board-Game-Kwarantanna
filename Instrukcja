@@ -1,9 +1,9 @@
 KWARANTANNA (Gra Planszowa)
 
 Opis gry:
-  W kraju wybuchła epidemia. Stało się to z dnia na dzień. Nie byłeś przygotowany, a teraz nie ma na to już czasu.
+  W kraju wybuchła epidemia. Stało się to z dnia na dzień.
+  Nie byłeś przygotowany, a teraz nie ma na to już czasu.
   Jesteś zdany na siebie i swoją rodzinę. Twoim jedynym celem jest przetrwać.
-
 
 
 Zasady ogólne:
@@ -13,33 +13,36 @@ jeden dzień kwarantanny. Gracz codziennie decyduje, co będzie robił każdy
 z członków rodziny.
 Każda osoba ma swoją własną odporność oraz zdrowie.
 Kiedy odporność spada do 0, osoba zaczyna chorować.
-Kiedy zdrowie spada do 0, osoba umiera.
+Kiedy zdrowie spada do 0, osoba - niezaleźnie czy zdrowa, czy chora - umiera.
 
 
 Przygotowanie gry:
-Połóż na każdej postaci odpowiednią liczbę znaczników zdrowia i samopoczucia
-(widoczne na karcie postaci).
 Każda rodzina otrzymuje jedzienie i papier toaletowy na dwa dni oraz
 4 żetony leków.
+Na karcie każdej z postaci połóż kostkę odporności oraz kostkę zdrowia
+z odpowiednią liczbą oczek
+
 
 Plan rundy:
   1. Wydarzenie dnia (gracz rozpoczynający)
   2. Wydarzenie rodzinne
-  2. Podział ról w rodzinie
-  3. Podział znaczników jedzenia i leków
-  4. Ewaluacja
+  3. Zaopatrzenie sklepów
+  4. Podział ról w rodzinie
+  5. Podział znaczników jedzenia i leków
+  6. Ewaluacja
 
 Akcje:
-  1. Sklep - żywność (+5 znaczników żywności)
-  2. Drogeria - papier toaletowy (+2 rolki)
-  3. Apteka - leki (+2 leki)
-  4. Domowa produkcja leków (+1 lek)
-  6. Wyjście na spacer (+1 zdrowia, -1 odporności)
-  7. Opieka nad zarażonym (-1 odporności)
+  - Wyjście do sklepu po żywność (-1 odporności)
+  - Wyjście do drogerii po papier toaletowy (-1 odporności)
+  - Wyjście do apteki po leki (-1 odporności)
+  - Wyjście na spacer (+1 zdrowia, -1 odporności)
+  - Domowa produkcja leków (+1 lek)
+  - Opieka nad zarażonym (-1 odporności)
 
 Reguły:
-  - Wyjścia do sklepów zmniejszają odporność o 1
-  - Osoba, która w ciągu dnia nie otrzyma żywności, traci 1 znacznik zdrowia
-  - Jeśli w rodzinie zabraknie papieru, wszyscy tracą odporność (1)
-  - Brak opieki nad chorym zmniejsza zdrownie o 1
+  - Nigdy nie można mieć więcej niż 6 zdrowia ani odporności.
+  - Wyjścia na zewnątrz zmniejszają odporność (o 1).
+  - Osoba, która w ciągu dnia nie otrzyma żywności, traci 1 znacznik zdrowia.
+  - Jeśli w rodzinie zabraknie papieru, wszyscy tracą odporność (o 1).
+  - Brak opieki nad chorym zmniejsza zdrowie o 1.
   - Brak leków dla chorego zmniejsza zdrowie o 1.

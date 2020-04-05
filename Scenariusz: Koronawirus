@@ -1,12 +1,8 @@
-1.Rodzina zaczyna z dwoma zarażonymi członkami:
-  -jeden z nich ma 1 ZZ
-  -drugi ma 2 ZZ
-2.Zachorowanie:
-  -start z 8 ZC
-  - +2 ZC na turę
-  - -2 ZC za opiekę
-  - -1 ZC za leki (max 1)
-3.Śmierć:
-  -Kobieta:K6 + ZC >= 15
-  -Mężczyzna: K6 + ZC >= 20
-4.Szczepionka w 10 turze - usuń wszystkie ZZ do końca gry
+Reguły specjalne:
+- chory nie zdrowieje do zakończenia gry
+- podczas zachorowania mężczyźni tracą 1 punkt zdrowia
+- podczas zachorowania osoby powyżej 60 lat tracę 1 punkt zdrowia
+- po 10 turze każdy z graczy rzuca kostną na początku tury
+  jeśli wyrzuci 6, to gra się kończy - wszyscy otrzymują lek oraz szczepionkę
+- punktacja końcowa: 3 punkty za każdego członka rodziny, który przeżył.
+                     1 dodatkowy punkt za każdego zdrowego
