@@ -32,11 +32,11 @@ Plan rundy:
   6. Ewaluacja
 
 Akcje:
-  - Sklep - żywność
-  - Drogeria - papier toaletowy
-  - Apteka - leki
-  - Domowa produkcja leków (+1 lek)
+  - Wyjście do sklepu po żywność (-1 odporności)
+  - Wyjście do drogerii po papier toaletowy (-1 odporności)
+  - Wyjście do apteki po leki (-1 odporności)
   - Wyjście na spacer (+1 zdrowia, -1 odporności)
+  - Domowa produkcja leków (+1 lek)
   - Opieka nad zarażonym (-1 odporności)
 
 Reguły:
@@ -44,5 +44,5 @@ Reguły:
   - Wyjścia na zewnątrz zmniejszają odporność (o 1)
   - Osoba, która w ciągu dnia nie otrzyma żywności, traci 1 znacznik zdrowia
   - Jeśli w rodzinie zabraknie papieru, wszyscy tracą odporność (o 1)
-  - Brak opieki nad chorym zmniejsza zdrownie o 1
+  - Brak opieki nad chorym zmniejsza zdrowie o 1
   - Brak leków dla chorego zmniejsza zdrowie o 1.
