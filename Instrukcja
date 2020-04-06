@@ -46,3 +46,6 @@ Reguły:
   - Jeśli w rodzinie zabraknie papieru, wszyscy tracą odporność (o 1).
   - Brak opieki nad chorym zmniejsza zdrowie o 1.
   - Brak leków dla chorego zmniejsza zdrowie o 1.
+  - Jeżeli w sklepie będzie więcej chętnych do kupna, niż towaru, to towar
+    dzieli się porówno pomiędzy wszystkich. W sytuacjach spornych pierwszeństwo
+    ma starsza postać
